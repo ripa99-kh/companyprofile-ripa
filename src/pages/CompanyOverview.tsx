@@ -2,7 +2,7 @@ function CompanyOverview() {
   return (
      <section className="bg-rose-50 h-[100vh] flex flex-row">
         <div className="w-[50%] h-[50vh]">
-            <img src="/CLINIC.png" alt="Clinic" className="w-150 h-150 mt-10 object-cover"/>
+            <img src="/CLINIC.png" alt="Clinic" className="w-150 h-150 object-cover"/>
         </div>
         <div className=" flex flex-col justify-center px-6 py-16 w-[50%] h-[100vh]">
             <div className="text-4xl font-serif text-rose-800 mb-4">OUR CLINIC</div>
