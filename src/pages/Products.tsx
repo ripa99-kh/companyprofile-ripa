@@ -30,7 +30,7 @@ function Products() {
             <Card
              image="./PRODUCT.png"
              title="Thermage"
-             desc="Premium non-surgical skin tightening with radiofrequency technology"
+             desc="Premium non-surgical skin tightening with radiofrequency"
              buttonText="BOOK HERE"
              />
         </div>
