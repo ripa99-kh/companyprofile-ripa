@@ -13,28 +13,28 @@ function BlogList() {
         <Card4
           title="The Benefits of Regular Facial Treatments"
           desc="Discover how consistent facial treatments can improve skin texture, reduce acne, and boost your confidence."
-          author="Dr. Amanda Putri•"
+          author="dr. Amanda Putri•"
           date="March 1, 2026"
           buttonText="READ MORE"
         />
         <Card4
           title="The Benefits of Regular Facial Treatments"
           desc="Discover how consistent facial treatments can improve skin texture, reduce acne, and boost your confidence."
-          author="Dr. Amanda Putri•"
+          author="dr. Amanda Putri•"
           date="March 1, 2026"
           buttonText="READ MORE"
         />
         <Card4
           title="The Benefits of Regular Facial Treatments"
           desc="Discover how consistent facial treatments can improve skin texture, reduce acne, and boost your confidence."
-          author="Dr. Amanda Putri•"
+          author="dr. Amanda Putri•"
           date="March 1, 2026"
           buttonText="READ MORE"
         />
         <Card4
           title="The Benefits of Regular Facial Treatments"
           desc="Discover how consistent facial treatments can improve skin texture, reduce acne, and boost your confidence."
-          author="Dr. Amanda Putri•"
+          author="dr. Amanda Putri•"
           date="March 1, 2026"
           buttonText="READ MORE"
         />
